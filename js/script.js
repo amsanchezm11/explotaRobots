@@ -297,8 +297,8 @@ function robarCarta() {
         cambiarBotones();
     } else if (barajaNueva.cartas.length == 0) {
 
-        //alert("Se acabó la partida! El ganador es " + jugadorMaxPuntos.nombre + " con " + jugadorMaxPuntos.puntosTotales + " puntos!!");
-        mensajeGanadorPuntos(jugadores);
+        alert("Se acabó la partida! El ganador es " + jugadorMaxPuntos.nombre + " con " + jugadorMaxPuntos.puntosTotales + " puntos!!");
+        //mensajeGanadorPuntos(jugadores); // Descartado porque no me toma los valores bien
         cambiarBotones();
     } else {
         pasarTurno();       // Pasar turno
