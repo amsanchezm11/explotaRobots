@@ -15,6 +15,7 @@
 
 ## Informaci&oacute;n del proyecto:
 * **Autor:** *Alberto S&aacute;nchez Mac&iacute;as*
+* **Nota:** *9,50*
 * **Curso** *DAW 2-B*
 * **Asignatura:** *Desarrollo Web en Entorno Cliente*
 * **Profesor:** *Borja Rodr&iacute;guez Puerta*
